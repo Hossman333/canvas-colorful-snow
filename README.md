@@ -9,10 +9,10 @@ http://joshondesign.com/p/books/canvasdeepdive/title.html<br />
 Additional help:<br />
 http://lmgtfy.com/?q=canvas+tutorials<br />
 
-## UP AND COMING: ##
+## Up and coming: ##
 * WebWorkers
 
-## Acknowledgments ##
+## Acknowledgments: ##
 * Credit goes to Josh Marinacci.
 
 * His book HTML Canvas Deep Dive has amazing tutorials.
