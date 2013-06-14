@@ -10,11 +10,11 @@ Additional help:<br />
 http://lmgtfy.com/?q=canvas+tutorials<br />
 
 ## Up and coming: ##
-* WebWorkers
+* Web-Workers
 
 ## Acknowledgments: ##
-* Credit goes to Josh Marinacci.
+* Josh Marinacci
 
 * His book HTML Canvas Deep Dive has amazing tutorials.
 
-* I forked it and changed stuff up for fun.
+* I forked his snow effect and changed stuff up for fun.
