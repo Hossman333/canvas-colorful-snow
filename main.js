@@ -79,7 +79,7 @@ function drawStuff() {
 }
 
 
-
+//THIS DOWN HERE is just a test of canvas. Its a little animation!
 
 
 // var x = 0; 
