@@ -14,7 +14,8 @@ window.requestAnimFrame = (function(){
 
 
 var canvas = document.getElementById('canvas');
-window.addEventListener('resize', resizeCanvas, false);
+
+window.addEventListener('resize', _.debounce(resizeCanvas, 200), false);
 
 function resizeCanvas() {
   canvas.width = window.innerWidth;
@@ -29,7 +30,7 @@ function drawStuff() {
   function loop() { 
     window.requestAnimFrame(loop); 
     createParticles(); 
-    updateParticles(); 
+    updateParticles();
     killParticles(); 
     drawParticles();
   } 
@@ -37,7 +38,7 @@ function drawStuff() {
   function createParticles() { 
     //check on every 10th tick check 
     if(tick % 10 == 0) { 
-      //add particle if fewer than 100 
+      //add particle if fewer than 300 
       if(particles.length < 300) { 
         particles.push({ 
           x: Math.random()*canvas.width, //between 0 and canvas width 
