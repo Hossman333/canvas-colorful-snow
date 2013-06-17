@@ -12,8 +12,8 @@ http://lmgtfy.com/?q=canvas+tutorials<br />
 ## Check List: ##
 * debouncer ✔
 * lo-dash ✔
-* minify ✔
-* resize ✔
+* minify js ✔
+* resize canvas ✔
 
 ## Acknowledgments: ##
 * Josh Marinacci
