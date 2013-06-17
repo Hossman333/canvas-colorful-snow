@@ -13,6 +13,6 @@
     Test
   </div>
   <script src="vendors/lodash.custom.min.js"></script>
-  <script src="main.js"></script>
+  <script src="main.min.js"></script>
 </body>
 </html>
