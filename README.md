@@ -9,8 +9,10 @@ http://joshondesign.com/p/books/canvasdeepdive/title.html<br />
 Additional help:<br />
 http://lmgtfy.com/?q=canvas+tutorials<br />
 
-## Up and coming: ##
-* Web-Workers
+## Completed: ##
+* <span style= "text-decoration: line-through">Web-Workers</span>
+* debouncer ✔
+* Lo-Dash ✔
 
 ## Acknowledgments: ##
 * Josh Marinacci
