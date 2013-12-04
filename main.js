@@ -1,4 +1,4 @@
-//Paul Irish shim(just maps the diff variation of requestAnimFrame)
+
 window.requestAnimFrame = (function(){ 
   return  window.requestAnimationFrame       ||  
           window.webkitRequestAnimationFrame ||  
@@ -9,7 +9,7 @@ window.requestAnimFrame = (function(){
             window.setTimeout(callback, 1000 / 60); 
           }; 
 })(); 
-//shim ends
+
 
 
 
