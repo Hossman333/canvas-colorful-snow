@@ -1,4 +1,4 @@
-http://hossman333.github.io/canvas-colorful-snow/
+<small>http://hossman333.github.io/canvas-colorful-snow/</small>
 ====================
 
 canvas-colorful-snow
